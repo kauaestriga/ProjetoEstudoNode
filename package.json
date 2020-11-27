@@ -1,0 +1,23 @@
+{
+  "name": "projetoestudo",
+  "version": "1.0.0",
+  "description": "Projeto para o Estudo da Matéria sobre Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Kauã Estriga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.16",
+    "nodemon": "^2.0.6"
+  }
+}
